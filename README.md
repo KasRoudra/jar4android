@@ -3,7 +3,7 @@
 ### [+] Arranged By <a href="https://github.com/KasRoudra">KasRoudra</a>
 
 ### [+] Disclaimer :
-***Here I am providing some java games tested on my device. If you have born between 1995-2005 you might played some of them in button phones. I found a way to ressuract them. Enjoy!***
+***Here I am providing some java games tested on my device. If you have born between 1995-2005 you might played some of them in button phones. I found a way to resurrect them. Enjoy!***
 
 ### The provided app supports .jar extension games!
 
