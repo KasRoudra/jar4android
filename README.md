@@ -34,7 +34,7 @@
 <img src="https://github.com/KasRoudra/jar4android/raw/main/screenshots/ss6.jpeg">
 7. All done. You may set Common Settings>Switch Keylayout to 3 for better gaming. Use Common Settings>Exit to exit.
 
-## Games are collected from <a href="www.phoneky.com">Phoneky</a>
+## Games are collected from <a href="https://www.phoneky.com">Phoneky</a>
 
 ## [+] Find Me on :
 <ul>
